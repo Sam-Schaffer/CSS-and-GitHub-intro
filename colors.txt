@@ -1,0 +1,13 @@
+#272B75 darkest blue
+#9BA0F7 purple
+#5058F5 lightest blue
+#4A4C75 dark purple
+#4046C2 mid blue
+
+
+/* colors for pseudo classes*/
+#7A221A darkest reflected
+#FB8A80 pinkish
+#FA4634 lightest red
+#7A433E muted red
+#C7372A mid grade red
